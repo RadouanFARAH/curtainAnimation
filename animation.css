@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+section {
+    height: 100vh;
+    background-image: url('./a.png');    
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    top: 90px;
+}
+
+header {
+    height: 90px; 
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.logo {
+    margin-right: 50px;
+    height: 60px;
+    border-radius: 50%;
+    border: white 2px dotted
+    
+}
+.mvr {
+    margin-left: 10px;
+    color: bisque;
+}
