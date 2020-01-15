@@ -6,7 +6,7 @@
 }
 section {
     height: 100vh;
-    background-image: url('./a.png');    
+    background-image: url('../img/a.png');    
     background-repeat: no-repeat;
     position: relative;
     overflow: hidden;
